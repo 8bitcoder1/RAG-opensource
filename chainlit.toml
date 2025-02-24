@@ -1,0 +1,3 @@
+[project]
+name = "LocalRAG Chat"
+description = "A chatbot interface for local RAG using OpenAI API"
